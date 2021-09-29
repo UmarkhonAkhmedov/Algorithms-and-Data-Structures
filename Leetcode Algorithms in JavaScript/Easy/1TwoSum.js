@@ -33,6 +33,8 @@ var twoSum = function(nums, target){
     }
 }
 
+
+
 // Simple Way
 var twoSum = function(nums, target){
     for(var i=0; i<nums.length; i++){

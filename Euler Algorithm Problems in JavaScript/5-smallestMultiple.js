@@ -44,7 +44,7 @@ let smallestMultiple = (largestDivisor) => {
     return solution;
 }
 
-console.log('Result is ' + smallestMultiple(5));
+console.log('Result is ' + smallestMultiple(20));
 
 
 

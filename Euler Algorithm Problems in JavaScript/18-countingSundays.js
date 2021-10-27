@@ -9,3 +9,6 @@ function solution() {
   }
   return n;
 }
+
+
+console.log(solution());
